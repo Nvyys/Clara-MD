@@ -6,22 +6,22 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6285850624352', 'nv', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
+global.nomorwa = '6285850624352'
+global.packname = 'env - MD by'
+global.author = '© nv'
+global.namebot = 'nv - MD'
+global.wm = '© anu By nv'
+global.stickpack = 'nv - MD by'
+global.stickauth = '© nv'
 global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
-global.sgh = 'https://github.com/Xyroinee'
+global.sig = 'https://www.instagram.com/nv'
+global.sgh = 'https://github.com/Nvyys'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
 global.psaweria = 'https://saweria.co/Zeltoria'
